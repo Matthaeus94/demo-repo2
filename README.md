@@ -6,3 +6,5 @@ Dome text?git push
 
 
 cos 1
+
+dodajemy nbastepne cos
